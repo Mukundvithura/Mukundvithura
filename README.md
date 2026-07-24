@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on **production-grade backend systems with FastAPI, AI-powered applications, and secure authentication services**<br>👯 I'm looking to collaborate on **open-source AI, cybersecurity, backend engineering, and cloud-native projects**<br>🤝 I'm looking for help with **distributed systems, Kubernetes, and large-scale system design**<br>🌱 I'm currently learning **LLMs, RAG, AWS, Kubernetes, Rust, DevSecOps principles and advanced application security**<br>💬 Ask me about **Python, FastAPI, authentication systems, penetration testing, Linux, CTFs, and web security**<br>⚡ Fun fact: **I enjoy breaking applications to understand how to build them more securely.**
+🔭 Building AI and secure backend applications
+👯 Open to collaborating on AI, backend, and cybersecurity projects
+🌱 Learning LLMs, AWS, Kubernetes, and Rust
+💬 Ask me about Python, FastAPI, Linux, and application security
+⚡ Fun fact: I enjoy breaking systems to learn how to build them securely.
 
 
 ## 🌐 Socials:
